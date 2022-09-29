@@ -13,8 +13,13 @@ Nesse projeto usei o spotify api arduino, para fazer a autenticação e comunica
 
 ![](https://raw.githubusercontent.com/hectorcamp/Spotify_nodemcu_playing_status/main/images/VID_20220929_114730_exported_10234_2.jpg)
 ![](https://raw.githubusercontent.com/hectorcamp/Spotify_nodemcu_playing_status/main/images/IMG_20220929_115601.jpg)
-<img src="[drawing.jpg](https://raw.githubusercontent.com/hectorcamp/Spotify_nodemcu_playing_status/main/images/IMG_20220929_115601.jpg)" alt="drawing" style="width:200px;"/>
 
 
 
+
+
+
+
+
+https://user-images.githubusercontent.com/9473919/193081195-3d29116d-1b88-4dd2-9d69-aa8dd8d1e135.mp4
 
